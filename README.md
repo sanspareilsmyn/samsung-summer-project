@@ -1,5 +1,5 @@
 # Samsung-summer-project
-Samsung Undergraduate Research Scholarship - Summer project
+Samsung Undergraduate Research Scholarship - Summer project (2019.07 - 2019.08)
 
 ## Introduction of Project 
 1. Title : Data Acquisition and Processing Algorithm of Embedded Vision Sensor
